@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Creating new branch
+            Changing travis.yml
           </a>
         </header>
       </div>
