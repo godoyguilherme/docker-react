@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-       
+            Creating new branch
           </a>
         </header>
       </div>
