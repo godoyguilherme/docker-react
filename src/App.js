@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Guilherme Godoy
+       
           </a>
         </header>
       </div>
